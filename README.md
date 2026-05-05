@@ -1,4 +1,4 @@
-# ITPM Assignment 1 - Transliteration Accuracy Testing
+# ITPM Assignment 1 - Transliteration Automation Testing
 
 **Student Name:** Yasintha W K M  
 **Registration Number:** IT23715110  
